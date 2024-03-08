@@ -1,12 +1,13 @@
 {
-  "name": "porn-x",
+  "name": "porn-for-life",
   "version": "1.0.45",
   "description": "Get information about a pornstar, get pictures, videos and many more!",
   "main": "./src/index.js",
   "type": "module",
   "types": "./src/index.d.ts",
   "repository": {
-    "url": "https://github.com/Basementfoxx/Porn-X"
+    "type": "git",
+    "url": "https://github.com/bentenVN/Porn-X"
   },
   "homepage": "https://github.com/Basementfoxx/Porn-X#readme",
   "scripts": {
